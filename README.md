@@ -33,4 +33,4 @@ Al abrir la aplicación móvil podremos o bien escanear el código QR o acceder 
 
 ## Aplicación demo.
 
-![image](app-screenshot.png)
+<img src="app-screenshot.png" height="500">
