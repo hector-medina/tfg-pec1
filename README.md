@@ -33,4 +33,6 @@ Al abrir la aplicación móvil podremos o bien escanear el código QR o acceder 
 
 ## Aplicación demo.
 
+Captura de pantalla de la aplicación en un dispositivo móvil físico (Iphone 14pro).
+
 <img src="app-screenshot.png" height="500">
