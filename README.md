@@ -1,5 +1,7 @@
 # TFG Multiplataforma - PEC1
 
+## Entorno de desarrollo.
+
 El entorno de desarrollo elegido sigue las directrices establecidas en la documentación oficial de React Native , por lo que se empleará Expo Go. Este acercamiento está especialmente recomendado para entornos de bajos recursos, ya que permite un mejor uso de recursos, al desplegar la aplicación en un dispositivo móvil físico, lo que evita utilizar un simulador.
 
 Las dependencias son las siguientes.
@@ -28,3 +30,7 @@ npx expo start
 
 Al abrir la aplicación móvil podremos o bien escanear el código QR o acceder a la aplicación directamente en el listado de aplicaciones disponibles.
 ![image](environment-screenshot.png)
+
+## Aplicación demo.
+
+![image](app-screenshot.png)
